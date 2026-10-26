@@ -1,6 +1,6 @@
 # Deku Foundation
 
-**Independent open-source engineering across system software, developer tools, and Arabic-first computing.**
+**Independent open-source engineering across system software, Arabic-first computing, Android applications, and developer tools.**
 
 Deku Foundation is a multi-project open-source organization. We publish our designs, code, tests, and limitations so contributors can judge progress from evidence rather than promises.
 
@@ -24,7 +24,10 @@ Deku Foundation is a multi-project open-source organization. We publish our desi
 | [deku-mirrors](https://github.com/Deku-Foundation/deku-mirrors) | Future package mirror policy and health | Planning only; no production mirrors |
 | [deku-signing](https://github.com/Deku-Foundation/deku-signing) | Package and release trust policy | Trust-model proposal; no production keys/service |
 | [deku-updater](https://github.com/Deku-Foundation/deku-updater) | Authenticated update orchestration | Future component; depends on package transactions |
-| [Project website](https://deku-foundation.github.io/) | Documentation, status, architecture and community entry points | Public project portal |
+| [deku-installer](https://github.com/Deku-Foundation/deku-installer) | Non-destructive installation-plan validation | Prototype only; does not write disks or install an OS |
+| [Deku Keyboard](https://github.com/Deku-Foundation/deku-keyboard) | Independent Android keyboard adapted from FlorisBoard | Pre-release baseline; build and inherited-asset review ongoing |
+| [Deku Satr](https://github.com/Deku-Foundation/deku-satr) | On-device visual-privacy tooling for Android | Experimental person-masking prototype; not guaranteed protection |
+| [Project website](https://deku-foundation.github.io/) | Portfolio, documentation, status, architecture and community entry points | Public project portal |
 
 ## How we build
 
