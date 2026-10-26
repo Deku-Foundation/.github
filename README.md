@@ -1,8 +1,6 @@
 # Deku Foundation
 
-Deku Foundation is an independent open-source engineering organization building software in public across system software, Arabic-first programming, Android applications, and developer tools.
-
-Our work is organized as a portfolio, not a single product. Projects have separate scopes, repositories, release criteria, and security boundaries.
+Deku Foundation maintains open-source projects in system software, Arabic-first programming, Android applications and developer tooling. Each project has its own repository, scope, maturity label, release gates and security boundaries.
 
 ## Projects
 
@@ -23,6 +21,10 @@ Our work is organized as a portfolio, not a single product. Projects have separa
 - Reuse mature upstream projects when they are safer and more maintainable than a rewrite.
 - Treat accessibility, internationalization, reproducibility, security, and clear failure behavior as engineering requirements.
 - Do not execute untrusted package scripts or treat checksums alone as publisher authentication.
+
+## Documentation standard
+
+Public documentation follows the [Deku Foundation technical writing standard](https://github.com/Deku-Foundation/.github/blob/main/EDITORIAL_STYLE.md): describe current behavior, link claims to evidence, state limitations and keep translations aligned.
 
 ## Contributing
 
