@@ -41,6 +41,7 @@ Keep necessary safety, privacy, licensing and maturity caveats. Removing a cavea
 
 - Use active voice and name the actor when it matters.
 - Prefer familiar words and specific verbs.
+- Avoid subjective qualifiers such as “simply”, “quickly”, “easily”, “properly” and “carefully” unless the statement defines an observable criterion. State the action or expected result instead.
 - Give each paragraph one main purpose.
 - Use sentence case for headings and descriptive link labels.
 - Use bullets for distinct items and numbered steps for procedures.
@@ -79,7 +80,7 @@ When a behavior changes, update the relevant translations in the same change or 
 
 ## 8. Review quality; do not try to detect authorship
 
-Review prose for accuracy, specificity, clarity, consistency, accessibility and evidence. Do not use an AI-text detector as a quality gate or treat its result as proof of authorship. Published evaluations show that detector performance varies by model, domain and false-positive tolerance.
+Review prose for accuracy, specificity, clarity, consistency, accessibility and evidence. Do not use an AI-text detector as a quality gate or treat its result as proof of authorship. Evaluations and reviews published in 2025–2026 report variable performance and false positives across writing types, languages and assessment settings; detector scores do not establish provenance.
 
 For material AI-assisted contributions, follow the applicable repository AI policy and disclose assistance as required. Never claim that text, research, code or tests were written, checked or run by a person or tool when that is not true.
 
@@ -88,8 +89,13 @@ For material AI-assisted contributions, follow the applicable repository AI poli
 - [GitHub: best practices for repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories)
 - [GitHub: about README files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Google developer documentation style guide](https://developers.google.com/style)
+- [Google style guide: latest changes](https://developers.google.com/style/whats-new)
+- [Google style guide: precise, objective language](https://developers.google.com/style/inclusive-documentation)
+- [GitHub Docs: writing for user needs and readability](https://docs.github.com/en/contributing/writing-for-github-docs/best-practices-for-github-docs)
 - [Google style guide: documentation highlights](https://developers.google.com/style/highlights)
 - [Microsoft Writing Style Guide: use simple words and concise sentences](https://learn.microsoft.com/en-us/style-guide/word-choice/use-simple-words-concise-sentences)
 - Tufts, Zhao and Li, [A Practical Examination of AI-Generated Text Detectors for Large Language Models](https://aclanthology.org/2025.findings-naacl.271/), Findings of NAACL 2025.
+- Maghami, Ho and Camilleri, [AI content detection in student text assignments, false positive rates, and academic integrity](https://link.springer.com/article/10.1007/s44217-026-02307-x), systematic review published 17 October 2026.
+- Hadra, Cambridge and Mesbah, [Evaluating the accuracy and reliability of AI content detectors in academic contexts](https://link.springer.com/article/10.1007/s40979-026-00213-1), published 2 February 2026.
 
 This guide sets editing expectations, not a requirement to make every project's voice identical. Clarity and technical accuracy take priority over mechanical uniformity.
