@@ -1,6 +1,6 @@
 # Deku Foundation
 
-Deku Foundation is an independent open-source engineering organization building software in public across system infrastructure, developer tools, and Arabic-first computing research.
+Deku Foundation is an independent open-source engineering organization building software in public across system software, Arabic-first programming, Android applications, and developer tools.
 
 Our work is organized as a portfolio, not a single product. Projects have separate scopes, repositories, release criteria, and security boundaries.
 
@@ -12,7 +12,9 @@ Our work is organized as a portfolio, not a single product. Projects have separa
 - **[Build tooling](https://github.com/Deku-Foundation/deku-build)** — package build-plan validation and build-system research.
 - **[Recipes](https://github.com/Deku-Foundation/deku-recipes)** — declarative package recipe metadata and validation.
 - **[System integration](https://github.com/Deku-Foundation/deku-system)** and **[infrastructure](https://github.com/Deku-Foundation/deku-infra)** — supporting system and repository work.
-- **[Project website](https://deku-foundation.github.io/)** — portfolio, architecture notes, documentation and public status.
+- **[Installation planning](https://github.com/Deku-Foundation/deku-installer)** — non-destructive plan validation only; no disk-writing or OS installation is implemented.
+- **Android applications:** [Deku Keyboard](https://github.com/Deku-Foundation/deku-keyboard) is an independent FlorisBoard-based keyboard undergoing pre-release validation; [Deku Satr](https://github.com/Deku-Foundation/deku-satr) is an experimental on-device person-masking prototype, not guaranteed privacy protection.
+- **[Project website](https://deku-foundation.github.io/)** — the foundation-wide portfolio, architecture notes, documentation and public status.
 
 ## How we work
 
