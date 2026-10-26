@@ -26,7 +26,7 @@ Deku Foundation is a multi-project open-source organization. We publish our desi
 | [deku-updater](https://github.com/Deku-Foundation/deku-updater) | Authenticated update orchestration | Future component; depends on package transactions |
 | [deku-installer](https://github.com/Deku-Foundation/deku-installer) | Non-destructive installation-plan validation | Prototype only; does not write disks or install an OS |
 | [Deku Keyboard](https://github.com/Deku-Foundation/deku-keyboard) | Independent Android keyboard adapted from FlorisBoard | Pre-release baseline; build and inherited-asset review ongoing |
-| [Deku Satr](https://github.com/Deku-Foundation/deku-satr) | On-device visual-privacy tooling for Android | Experimental person-masking prototype; not guaranteed protection |
+| [Deku Satr](https://github.com/Deku-Foundation/deku-satr) | On-device person-masking prototype for Android | Experimental; detection can fail and protection is not guaranteed |
 | [Project website](https://deku-foundation.github.io/) | Portfolio, documentation, status, architecture and community entry points | Public project portal |
 
 ## How we build
@@ -58,3 +58,7 @@ Do not publish exploitable vulnerability details in public issues. Until a dedic
 ## Project status
 
 The foundation is actively developing early-stage open-source projects. We do not claim a production-ready Linux distribution, a universal package compatibility layer, or a self-hosting Arabic language compiler. Follow repository CI, reviewed pull requests and versioned releases for verifiable progress.
+
+## Documentation
+
+Public documentation should describe current behavior, link important claims to evidence, and state limitations plainly. Keep English, French and Arabic pages aligned. The [Deku Foundation technical writing standard](https://github.com/Deku-Foundation/.github/blob/main/EDITORIAL_STYLE.md) applies across the portfolio.
